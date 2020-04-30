@@ -1,13 +1,13 @@
 {
-    "name": "craigchilds94/plaid-php",
+    "name": "analogrepublic/plaid-php",
     "description": "Un-Official PHP SDK for Plaid",
     "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Craig Childs",
-            "email": "childscraig17@gmail.com"
+            "name": "Analog Republic",
+            "email": "team@analogrepublic.com"
         }
     ],
     "require": {
